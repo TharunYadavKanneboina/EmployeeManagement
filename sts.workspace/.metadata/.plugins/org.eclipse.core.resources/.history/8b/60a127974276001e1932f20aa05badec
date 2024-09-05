@@ -1,0 +1,5 @@
+package com.nani.www.repository;
+
+public interface EmployeeRepository {
+
+}
